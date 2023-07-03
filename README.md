@@ -1,5 +1,0 @@
-* Hello
-
-** Nothing
-
-Hello buddy
